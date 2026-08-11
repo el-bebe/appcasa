@@ -1,0 +1,6 @@
+{
+  "name": "CasaClara",
+  "description": "Gestión visual y simple de gastos y alacena del hogar para parejas y convivientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
